@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.InstallLog
+   assemblypath = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe
+Installing service Broobu.CloudEngine...
+Service Broobu.CloudEngine has been successfully installed.
+Creating EventLog source Broobu.CloudEngine in log Application...
+Committing assembly 'C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.InstallLog
+   assemblypath = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe
+Uninstalling assembly 'C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.InstallLog
+   assemblypath = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe
+Removing EventLog source Broobu.CloudEngine.
+Service Broobu.CloudEngine is being removed from the system...
+Service Broobu.CloudEngine was successfully removed from the system.
+Installing assembly 'C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.InstallLog
+   assemblypath = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe
+Installing service Broobu.CloudEngine...
+Service Broobu.CloudEngine has been successfully installed.
+Creating EventLog source Broobu.CloudEngine in log Application...
+Committing assembly 'C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.InstallLog
+   assemblypath = C:\GitHub\Release\Broobu.CloudEngine\CloudEngine.exe
