@@ -1,3 +1,4 @@
 ﻿
-installutil cloudengine.exe
+installutil CloudEngine.exe
+
 net start Broobu.CloudEngine
