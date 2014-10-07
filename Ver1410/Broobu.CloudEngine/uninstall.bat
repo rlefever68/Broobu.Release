@@ -1,0 +1,3 @@
+﻿
+installutil /u CloudEngine.exe
+
