@@ -1,0 +1,16 @@
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Release\Wulka.Test.csprojResolveAssemblyReference.cache
+C:\GitHub\Release\Wulka.SDK\NLog.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test.dll.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Release\Wulka.Test.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Release\Wulka.Test.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\NLog.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Wulka.Test.dll.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Wulka.Test.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Wulka.Test.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\NLog.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Wulka.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Newtonsoft.Json.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\NLog.xml
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Release\Newtonsoft.Json.xml

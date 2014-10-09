@@ -1,0 +1,4 @@
+Wulka SDK Release Notes
+***********************
+Version 14.10.09
+- Created the initial package fit for distribution
