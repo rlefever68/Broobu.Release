@@ -1,0 +1,13 @@
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\NLog.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Wulka.Test.dll.config
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Wulka.Test.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Wulka.Test.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\NLog.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Wulka.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Wulka.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\bin\Debug\NLog.xml
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Debug\Wulka.Test.dll
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Debug\Wulka.Test.pdb
+C:\GitHub\Release\Wulka.SDK\Wulka.Test\obj\Debug\Wulka.Test.csprojResolveAssemblyReference.cache
